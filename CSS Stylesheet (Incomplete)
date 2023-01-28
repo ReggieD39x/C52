@@ -1,0 +1,33 @@
+
+head>
+       style>
+        ul   {
+            margin: 50px;
+            width: 500px;
+            font-family: 0;
+      }
+          
+        ul li {
+          display: block;
+            float: center;
+            width: 120px
+            margin-left: 2px;
+            border: 1px solid #000;
+        
+          
+        ul a {
+            display: block;
+            padding: 8px;
+            text-decoration:none;
+            background-color: #027e27;
+            color:white;
+        }
+          style>
+          head>
+          body>
+          ul>
+            li> a href="#Biography"><Biography</a></li>
+            li> a href="#fun facts">Fun Facts</a></li>
+            li> a href="#what motivates me">What Motivates Me</a></li>
+            li> a href="#what i've learned so far">What I've Learned So Far</a></li>
+          </ul>
