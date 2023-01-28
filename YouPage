@@ -1,0 +1,76 @@
+<DOCTYPE html>
+    <html lang="en">
+    <body style="background-color:black">
+       <head>
+        <link rel="stylesheet" href="/project1/root/styles/styles.css"> 
+       </head>
+        <h1 style="color:white"><u><b>
+        <marquee direction="left" behavior="alternate">Welcome To My Page!</marquee></b></u></h1>
+        <h1 style= "color:white"><u><b>
+                <marquee direction="right" behavior="alternate">Reginald A. Daniels III</marquee></u></b></h1>
+        <h3 style="color:white"><u><b>
+                    <marquee direction="right" behavior="alternate">Project Manager Extrordinare</marquee>
+                </b></u></h3>
+        <img src="images/ReggiePagePic.jpg" width="350px"> <img src="images/ChicagoImage.jpg" width=816px>
+        <h2 style="color:red"><b><u>Biograhpy</u></b></h2>
+        <p style="color:white"><b>"No great man lives in vain. The history of the world is but the biography of great
+                men."</b></p>
+        <p style="color:white"><b>- Thomas Carlyle</b></p>
+        <p style="color:green"> <b>Wassup Y'all! My name is <span style="color:red">Reginald A. Daniels III</span> and I
+                was born in Cook
+                County on the south side of Chicago on June 2nd 1994. My parents were married and divorced by the
+                time I was about 4 or 5 years old. I ended up staying my Dad, but my Mom was still around even
+                though she did her fair share of traveling. I had a solid, working class upbringing in my
+                Grandparents home with my Father, Sister and little brother. I graduated from Dunbar Vocational
+                Highschool in 2013 and I've been floating through this fine country ever since. I'm an artist and
+                I'm passionate about music and writing. I love interacting with and speaking to interesting people
+                of all backgrounds and asking a lot of questions. I'm a huge nerd! I adore literature and will read
+                anything that interests me but I have a special place in my heart for science fiction. Family is
+                aslo very important to me and I enjoy spending time with my Grandparents, parents and siblings
+                whwnever I can. Here are some other fun facts about me!</b></p>
+        <hr>
+        <h2 style="color:red"><b><u>Fun Facts</u></b></h2>
+        <p style="color:white"><b>"Fun Fact: Ram Singh Chauhan from Jaipur, India holds the world record for the worlds
+                longest moustache at 14 feet."</b></p>
+        <p style="color:white"><b>- Guinness Book of World Records</b></p>
+        <ol style="color:green">
+            <li><b>I LOVE playing Ping-Pong</b></li1>
+            <li><b>H.P. LoveCraft is my favorite author</b></li2>
+            <li><b>I've been to two different countries outside of the United States</b></li3>
+            <li><b>Christmas is my favorite holiday of all time</b></li>
+        </ol>
+        <img src="images/realHPlovecraft.jpg" width=150px> <img src="images/HPlovecraft.jpg" width=170px> <img
+            src="images/thecallofcthulhu.jpg" width=150px> <img src="images/pingpong.jpg" width=290px>
+        <hr>
+        <h2 style="color:red"><b><u>What Motivates Me</u></b></h2>
+        <p style="color:white"><b>"Ya' better check yourself before ya' wreck yourself..."</b></p>
+        <p style=color:white><b>- Snoop Dogg</b></p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7Oxz060iedY" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe> <img src="images/etQuote.jpg" width="560px">
+        <p style="color:green"> <b>I've been listening to E.T. the Hip-Hop preacher since my college days. This video in
+                particular had a profound effect on me when I discovered it around about 2015 or so. The pure fire and
+                truth expressed within makes me want to climb mountains and slay dragons and be the greatest man I can
+                possibly be. Its a swift kick in the pants that reminds me to keep my room clean before I comment on the
+                condition of some eleses. E.T. himself is an inspirational figure considering he was once homeless and
+                has in addition been beset by all manor of misfortune through out his very interesting life. However,
+                his seemingly unbreakable will along with his faith in God keeps him going, just as it does myself.
+                Thats why I find this video supremely motivational.<b /></p>
+        <hr>
+        <h2 style="color:red"><b><u>What I've Learned So Far</u></b></h2>
+        <p style="color:white"><b>"I am always doing that which I cannot do, in order that I may learn how to do
+                it."</b></p>
+        <p style="color:white"><b>- Pablo Picasso</b></p>
+        <ul style="color:green">
+            <li>The importance of checking your own biases when working with others</li>
+            <li>HTML is super fun to work with</li>
+            <li>I can do anything I put my mind to so long as I work at it and perfect the craft</li>
+            <li>There is no substitute for team work</li>
+            <li>Communication is valuable and often overlooked skill</li>
+        </ul>
+        <img src="images/United & icstars C52.png" width=500px> <img src="images/icstarschi.jpg" width="400px">
+    </body>
+
+    </html>
+</DOCTYPE>
